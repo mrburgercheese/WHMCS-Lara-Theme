@@ -1,0 +1,6 @@
+## Prevent direct access to tpl files.
+
+<Files ~ "\.tpl$">
+Order allow,deny
+Deny from all
+</Files>

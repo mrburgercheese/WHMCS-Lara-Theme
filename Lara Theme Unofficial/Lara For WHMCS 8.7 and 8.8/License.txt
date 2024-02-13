@@ -1,0 +1,44 @@
+Copyright (c) 2015 Amr M. Ibrahim (whmcsadmintheme.com)
+Contact : mailamr@gmail.com
+
+Single Use / Single Domain License (SUSDL)
+
+All parts of this plugin (SOFTWARE) including, but not limited to algorithms,
+PHP code, Javascript code or CSS code, texts, images and designs
+are licensed according to this license, unless otherwise stated.
+
+The SUSDL grants you a non-exclusive and non-transferrable right to use this
+SOFTWARE subject to the following conditions:
+
+You have been granted this license explicitly by the copyright holder.
+
+You are granted one single use of the SOFTWARE on one single domain.
+
+You may use the SOFTWARE for your own purposes or for a client, anyhow,
+use of the SOFTWARE is limited to one domain only.
+
+Use on multiple domains, including subdomains, requires you to obtain one
+SUSDL for each domain or subdomain you wish to use the SOFTWARE on.
+
+You must not directly or indirectly license, sub-license, rent, lend, sell,
+resell, provide for free, reproduce or distribute by any means the SOFTWARE.
+The same applies to derivative works based on the SOFTWARE.
+The same applies to works based on reverse-engineered versions of this
+SOFTWARE.
+
+You must not create derivative works based on the SOFTWARE.
+
+You must not reverse-engineer the SOFTWARE.
+
+You must not incorporate the SOFTWARE in any work created for resale.
+
+You must not use the SOFTWARE to provide services similar to those provided
+by the SOFTWARE.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.

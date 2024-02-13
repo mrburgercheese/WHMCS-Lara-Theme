@@ -1,0 +1,54 @@
+﻿To install WHMCS AdminLTE Theme (Lara) :
+=======================================
+1 - Extract the downloaded Theme zip file locally on your computer.
+2 - Assuming your admin folder is called admin, upload the folder named 'lara' to 'admin/templates/'
+3 - Upload the folder named 'lara_addon' to 'modules/addons/'
+4 - Login to your WHMCS admin area, click on "My Account".
+5 - Select "Lara" from the templates menu and then click save changes.
+6 - Go to 'addon modules' page and activate the "Lara Theme Settings" addon.
+7 - After activating the module, make sure to permit access to all admin groups
+    by clicking "Configure" and checking all the boxes next to "Access Control".
+8 - Enjoy !
+
+*IMPORTANT* To Upgrade from an earlier version :
+================================================
+
+* IMPORTANT : Switch back to the default "Blend" theme.
+* Upgrade your WHMCS to the latest v8.8.x (Lara v8.8.0 will not work with other versions).
+* Assuming your admin folder is called admin, upload the folder named 'lara' to 'admin/templates/'
+* Upload the folder named 'lara_addon' to 'modules/addons/'.
+* IMPORTANT : Clear WHMCS template cache by going to "System Cleanup", then clicking on "Empty Template Cache".
+* Switch back to "Lara", then go to the "Lara Theme Settings" addon module page on your WHMCS to complete the upgrade process.
+  The "Lara Theme Settings" addon module page should be located at :
+  https://your_domain/your_whmcs_folder_/admin/addonmodules.php?module=lara_addon
+
+* You may also need to clear the cache memory of your browser, which is done by doing a force refresh as follows :
+
+               Windows: Ctrl + F5 or Shift + F5
+			   Mac/Apple: Apple + R or Command + R
+			   Linux: F5
+			   
+* If the theme doesn't see the module as active, try to disable and then enable the "Lara Theme Settings" addon after upgrades.
+
+ 
+Custom Widgets :
+========================
+For Google Analytics and Staff Chat Widgets, You need to enable the widget(s) and assign proper permissions for your admin group, by visiting :
+
+  https://your_domain/your_whmcs_folder_/admin/addonmodules.php?module=lara_addon
+  
+   * Click on "Permissions".
+   * Select your admin group, and click to enable "Google Analytics" or "Staff Chat".
+   * Now visit WHMCS "home page" and follow the widget instructions to activate the widget.
+
+After you are done, you may give restricted access to other admins, by repeating the above steps for each admin group.
+ 
+
+
+For bugs, questions or feedback, feel free to contact us at : https://www.xtraorbit.com/support-center/
+
+Compatibility : 
+==============
+Requires PHP v7.4 or above, and ionCube v12 or above.
+The theme is compatible with WHMCS v8.8.x and is not compatible with older versions.
+
